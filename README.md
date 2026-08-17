@@ -43,10 +43,13 @@ AI         ██████░░░░
 🧬 SPIDER-VERSE PROJECTS
 
 🕷️ SUDUT KAMERA
-Digital Photo Booth
+Photo Booth Web App
 
-⚡ DITZTOP
-Digital Store
+⚡ AUTO TOPUP
+Automated Digital Store
 
-🧠 AI PROJECTS
-Artificial Intelligence
+🧬 AI PROJECT
+AI Experiments
+
+🌐 WEBSITE
+Web Development
