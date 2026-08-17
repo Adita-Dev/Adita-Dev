@@ -29,3 +29,23 @@
 ║  MAIN MISSION   : BUILD • CREATE • DEPLOY    ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
+🕸️ SPIDER-SUIT
+━━━━━━━━━━━━━━━━━━━━
+
+HTML       ██████████
+CSS        █████████░
+JavaScript █████████░
+PHP        ████████░░
+React      ███████░░░
+AI         ██████░░░░
+
+🧬 SPIDER-VERSE PROJECTS
+
+🕷️ SUDUT KAMERA
+Digital Photo Booth
+
+⚡ DITZTOP
+Digital Store
+
+🧠 AI PROJECTS
+Artificial Intelligence
