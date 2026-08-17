@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spider-Man GitHub Profile Preview | ADITA RIZKI DWI SAPUTRA</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --spider-red: #E23636;
+            --spider-blue: #0F4C81;
+            --spider-cyan: #00D2FF;
+            --spider-yellow: #FCEE0A;
+            --spider-dark: #0A0E17;
+        }
+        body {
+            background-color: var(--spider-dark);
+            color: #E2E8F0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        }
+        .neon-border {
+            border: 1px solid rgba(226, 54, 54, 0.4);
+            box-shadow: 0 0 15px rgba(226, 54, 54, 0.15);
+        }
+        .neon-text-red {
+            color: var(--spider-red);
+            text-shadow: 0 0 10px rgba(226, 54, 54, 0.5);
+        }
+        .neon-text-cyan {
+            color: var(--spider-cyan);
+            text-shadow: 0 0 10px rgba(0, 210, 255, 0.5);
+        }
+        .web-grid {
+            background-image: radial-gradient(rgba(226, 54, 54, 0.1) 1px, transparent 1px);
+            background-size: 24px 24px;
+        }
+    </style>
+</head>
+<body class="web-grid min-h-screen py-10 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-4xl mx-auto">
+        <!-- Control Header -->
+        <div class="bg-slate-900/90 border border-red-500/30 rounded-2xl p-6 mb-8 backdrop-blur-md shadow-2xl flex flex-col md:flex-row items-center justify-between gap-4">
+            <div>
+                <span class="text-xs uppercase tracking-widest font-bold px-3 py-1 rounded-full bg-red-950 text-red-400 border border-red-800">
+                    🕷️ Spider-Verse HUD Activated
+                </span>
+                <h1 class="text-2xl font-black mt-2 text-white tracking-tight">
+                    GitHub Profile <span class="neon-text-red">README.md</span> (Spider-Man Edition)
+                </h1>
+                <p class="text-xs text-slate-400 mt-1">
+                    Kustomisasi portofolio GitHub untuk <strong class="text-slate-200">ADITA RIZKI DWI SAPUTRA</strong> (ADITA-DEV / RAXZPEDIA)
+                </p>
+            </div>
+            <div class="flex items-center space-x-3">
+                <button onclick="copyRawReadme()" id="copyBtn" class="bg-red-600 hover:bg-red-700 text-white text-xs font-bold px-5 py-2.5 rounded-xl shadow-lg transition flex items-center space-x-2">
+                    <i class="fa-solid fa-copy"></i>
+                    <span>Salin README.md</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- GitHub Profile Simulation Container -->
+        <div class="bg-[#0D1117] border border-slate-800 rounded-2xl p-6 sm:p-10 shadow-2xl neon-border">
+            
+            <!-- Terminal Header -->
+            <div class="flex items-center justify-between pb-4 mb-6 border-b border-slate-800 text-xs text-slate-400">
+                <div class="flex items-center space-x-2">
+                    <span class="w-3 h-3 rounded-full bg-red-500 inline-block"></span>
+                    <span class="w-3 h-3 rounded-full bg-yellow-500 inline-block"></span>
+                    <span class="w-3 h-3 rounded-full bg-green-500 inline-block"></span>
+                    <span class="font-mono text-slate-300 ml-2">github.com/adita-dev/README.md</span>
+                </div>
+                <div class="text-[11px] text-red-400 font-mono">
+                    SPIDER-SUIT OS v4.2 // EARTH-616
+                </div>
+            </div>
+
+            <!-- Identity HUD Box -->
+            <div class="bg-black/60 border border-red-500/40 rounded-xl p-5 mb-8 font-mono text-xs shadow-inner">
+                <div class="text-red-400 font-bold mb-2 flex items-center">
+                    <i class="fa-solid fa-spider mr-2"></i> SYSTEM IDENTITY PROFILE
+                </div>
+                <div class="bg-slate-950 p-4 rounded-lg border border-slate-800 text-emerald-400 leading-relaxed font-mono whitespace-pre-wrap">+-------------------------------------------------------------+
+|   IDENTITY       : ADITA RIZKI DWI SAPUTRA                  |
+|   CODENAME       : ADITA-DEV / RAXZPEDIA                    |
+|   ROLE           : FULL STACK DEVELOPER                     |
+|   STATUS         : 🟢 ONLINE                                |
+|   MAIN MISSION   : BUILD • CREATE • DEPLOY                  |
++-------------------------------------------------------------+</div>
+            </div>
+
+            <!-- Content preview sections -->
+            <div class="space-y-6 text-sm leading-relaxed text-slate-300">
+                <div class="p-4 bg-red-950/20 border border-red-900/40 rounded-xl">
+                    <h3 class="text-base font-bold text-red-400 flex items-center mb-2">
+                        <i class="fa-solid fa-shield-halved mr-2"></i> Konsep Tema Spiderman "Tembus Akar"
+                    </h3>
+                    <ul class="list-disc pl-5 space-y-1.5 text-xs text-slate-300">
+                        <li><strong>Dynamic Typing Header:</strong> Animasi ketik real-time SVG dengan quote ikonik Spider-Man & codename.</li>
+                        <li><strong>Spider-HUD Identity Box:</strong> Format tabel terminal ASCII eksklusif berisi data identitas utama.</li>
+                        <li><strong>Spider-Suit Tech Arsenal:</strong> Pengelompokan stack teknologi (Web-Shooters, Spider-Core Engine, Genetic Data Vault, Iron-Spider Defense).</li>
+                        <li><strong>Spider-Sense Metrics:</strong> Statistik GitHub dengan tema warna Spider-Man Dark Neon (#E23636 & #00D2FF).</li>
+                        <li><strong>Spider-Comm Links:</strong> Badge kontak interaktif (GitHub, Telegram, WhatsApp, Email, Instagram).</li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="mt-8 text-center text-xs text-slate-500">
+            &copy; 2026 ADITA RIZKI DWI SAPUTRA (ADITA-DEV / RAXZPEDIA) • Spiderman-Themed GitHub Portfolio
+        </div>
+    </div>
+
+    <script>
+        async function copyRawReadme() {
+            const btn = document.getElementById('copyBtn');
+            const res = await fetch('README.md');
+            const text = await res.text();
+            navigator.clipboard.writeText(text).then(() => {
+                btn.innerHTML = '<i class="fa-solid fa-check"></i> <span>Tersalin ke Clipboard!</span>';
+                btn.classList.replace('bg-red-600', 'bg-emerald-600');
+                setTimeout(() => {
+                    btn.innerHTML = '<i class="fa-solid fa-copy"></i> <span>Salin README.md</span>';
+                    btn.classList.replace('bg-emerald-600', 'bg-red-600');
+                }, 2000);
+            });
+        }
+    </script>
+</body>
+</html>
