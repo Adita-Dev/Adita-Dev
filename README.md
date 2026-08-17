@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Adita-Dev/Adita-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🕷️ ADITA RIZKI
 
-Here are some ideas to get you started:
+### `Full Stack Developer` • `Creative Coder` • `Tech Enthusiast`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:e11d2e,100:090909&height=200&section=header&text=SPIDER-VERSE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=With%20great%20code%20comes%20great%20responsibility.&descAlignY=58&descSize=16"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Adita--Dev-111111?style=for-the-badge&logo=github)](https://github.com/Adita-Dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=Adita-Dev&style=for-the-badge&color=e11d2e)](https://github.com/Adita-Dev)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🕸️ `SPIDER-SYSTEM ONLINE`
+
+```text
+╔══════════════════════════════════════════════╗
+║              🕷️ SPIDER SYSTEM                ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  IDENTITY       : ADITA RIZKI                ║
+║  CODENAME       : ADITA-DEV                  ║
+║  ROLE           : FULL STACK DEVELOPER       ║
+║  STATUS         : ● ONLINE                   ║
+║  MAIN MISSION   : BUILD • CREATE • DEPLOY    ║
+║                                              ║
+╚══════════════════════════════════════════════╝
